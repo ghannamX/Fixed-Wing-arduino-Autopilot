@@ -24,5 +24,5 @@ The picture below depicts the sensors :
 
 ![sensors](https://github.com/ghannamX/Fixed-Wing-arduino-Autopilot/assets/154473723/96c0836f-d268-40ad-bd49-258473981108)
 
-# Extended Kalman Filter: Attitude and Altitue estimation.
+# Extended Kalman Filter: Attitude and Altitude estimation.
 For mathematical details please refer to my paper about EKF-quaternions-based Algorithm for attitude estimation
