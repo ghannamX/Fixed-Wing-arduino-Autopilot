@@ -15,3 +15,5 @@ Here, I have mistakenly cut off the powers at that very moment when the plane ne
 https://github.com/ghannamX/Fixed-Wing-arduino-Autopilot/assets/154473723/dec3edc7-b775-4b67-9c57-942879c4400d
 
 On this windy day, the weather conditions affected significantly the route of the plane and diverted it to the opposite direction. I could have been quicker to respond by applying elevator up before crashing into the field.
+
+Now that we have identified the issues with manual control, let us explore what Fly-By-Wire technology can bring to the table !
