@@ -7,7 +7,7 @@ When flying an aircraft in the manual mode, the flight is less safe and hence su
 
 https://github.com/ghannamX/Fixed-Wing-arduino-Autopilot/assets/154473723/bc8be17e-3ad6-4caa-be80-c3580b49cbb8
 
-Here, I have mistakenly cut off the powers at that very moment when the plane needed its maximum thrust to take-off from the ground. Because I thought it will divert from the runway and hit the grass causing consequently damage to the propeller.
+Here, I have mistakenly cut off the power at that very moment when the plane needed its maximum thrust to take-off from the ground. Because I thought it will divert from the runway and hit the grass causing consequently damage to the propeller.
 
 
 
